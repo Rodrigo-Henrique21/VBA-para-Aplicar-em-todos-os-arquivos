@@ -1,1 +1,1 @@
-Macro, destinada a executar um codigo/macro em todos os arquivos de uma pasta, com a finilidade de otimizar diversas tarefas
+O arquivo foi salvo como .bas mas pode ser aberto utilizando NotePad ou importando o mesmo através da interface do ambiente de desenvolvimento do VBA
